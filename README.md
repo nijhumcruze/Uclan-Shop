@@ -1,6 +1,6 @@
 # Assignment 2 - E-Commerce Backend Extension
 
-**Student Name:** Nijhum Nicholas Cruzer
+**Student Name:** Nijhum Nicholas Cruze
 **Student ID:** G21315956
 **Homepage URL:** 
 **Video Demo URL:** 
