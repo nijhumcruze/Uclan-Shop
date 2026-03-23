@@ -1,9 +1,9 @@
 # Assignment 2 - E-Commerce Backend Extension
 
-**Student Name:** [Your Name]
-**Student ID:** [Your ID]
-**Homepage URL:** `[URL to Vesta server index.php]`
-**Video Demo URL:** `[Link to MS Teams / YouTube video]`
+**Student Name:** Nijhum Nicholas Cruzer
+**Student ID:** G21315956
+**Homepage URL:** 
+**Video Demo URL:** 
 
 ## Features Implemented
 This submission successfully extends the Assignment 1 static site into a dynamic PHP application connecting to a MySQL database (`assignment2.sql` schema), aiming for an **80+ (First) grade**.
